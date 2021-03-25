@@ -1,0 +1,6 @@
+c:\users\kehvo\documents\visual studio 2015\Projects\ShopChoiceSystem\ShopChoiceSystem\bin\Debug\ShopChoiceSystem.exe.config
+c:\users\kehvo\documents\visual studio 2015\Projects\ShopChoiceSystem\ShopChoiceSystem\obj\Debug\ShopChoiceSystem.csprojResolveAssemblyReference.cache
+c:\users\kehvo\documents\visual studio 2015\Projects\ShopChoiceSystem\ShopChoiceSystem\bin\Debug\ShopChoiceSystem.exe
+c:\users\kehvo\documents\visual studio 2015\Projects\ShopChoiceSystem\ShopChoiceSystem\bin\Debug\ShopChoiceSystem.pdb
+c:\users\kehvo\documents\visual studio 2015\Projects\ShopChoiceSystem\ShopChoiceSystem\obj\Debug\ShopChoiceSystem.exe
+c:\users\kehvo\documents\visual studio 2015\Projects\ShopChoiceSystem\ShopChoiceSystem\obj\Debug\ShopChoiceSystem.pdb

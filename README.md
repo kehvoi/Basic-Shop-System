@@ -1,2 +1,2 @@
 # Basic-Shop-System
-A basic cash register system
+A basic cash register console system

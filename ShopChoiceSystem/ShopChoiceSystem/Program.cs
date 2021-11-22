@@ -438,7 +438,7 @@ namespace ShopChoiceSystem
                 Console.Beep();
                 Console.Beep();
                 Console.Clear();
-                Console.WriteLine("Insufficent ammount, this customer cannot make a purchase");
+                Console.WriteLine("Insufficent amount, this customer cannot make a purchase");
             }
             else
             {
